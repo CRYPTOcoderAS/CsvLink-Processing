@@ -158,6 +158,6 @@ This document details the design and implementation of a Node.js service that pr
 
 ---
 
-## 11. **Conclusion**
+## 8. **Conclusion**
 
 This document outlines the design and implementation of an CSV-image processing service with webhook integration. 
